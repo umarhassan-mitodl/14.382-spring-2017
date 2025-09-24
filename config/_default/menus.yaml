@@ -1,0 +1,55 @@
+leftnav:
+- identifier: 8990011a-350a-6c28-e231-c44fac6767e8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f2669dae-9bb3-f83b-b6e5-917fbc41a927
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: de424912-f80b-e5f9-33d0-042bd4ccb18f
+  name: Homework 1
+  pageRef: /pages/assignments/homework-1
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 40
+- identifier: 47c946b2-4baf-f29e-ec61-f8041be4688f
+  name: Homework 2
+  pageRef: /pages/assignments/homework-2
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 50
+- identifier: 194a6c55-90d4-4cda-98f5-c1a3a2ceab44
+  name: Homework 3
+  pageRef: /pages/assignments/homework-3
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 60
+- identifier: f13960ac-0911-2a9f-e860-4c64f03df157
+  name: Homework 4
+  pageRef: /pages/assignments/homework-4
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 70
+- identifier: 929d2575-4a24-b963-df88-d09ab5e75a07
+  name: Homework 5
+  pageRef: /pages/assignments/homework-5
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 80
+- identifier: 5c138074-4ca9-843d-ce19-106724e03403
+  name: Homework 6
+  pageRef: /pages/assignments/homework-6
+  parent: 371af9c7-8313-bd8c-c5a3-c24c1f588286
+  weight: 90
+- identifier: 0a0e67db-557c-25ce-6560-38292deede19
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 100
+- identifier: 71a1b27f-576f-0e57-5aec-89d8981e6144
+  name: Exams
+  pageRef: /pages/exams
+  weight: 110
+- identifier: d6be3952-6de4-1721-a37a-3f611b6038e3
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 120

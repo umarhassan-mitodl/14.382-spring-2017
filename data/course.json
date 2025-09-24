@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ]
+  ],
+  "legacy_uid": "79443c67-d1ee-223f-a0dc-8e3086b9e086",
+  "instructors": {
+    "content": [
+      "22a17a94-cba8-7361-03e8-4a86f73b37a7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a555d61b-6f6a-a37e-c7d1-21ac246e9286",
+    "website": "14-382-econometrics-spring-2017"
+  },
+  "course_title": "Econometrics",
+  "course_description": "The course will cover several key models as well as identification and estimation methods used in modern econometrics. We shall being with exploring some leading models of econometrics, then seeing structures, then providing methods of identification, estimation, and inference. You will get lots of hands-on experience with using the methods on real data sets.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.382",
+  "course_image_thumbnail": {
+    "content": "ac3d09c6-4fd3-d5f2-9d98-bee8f23c2e01",
+    "website": "14-382-econometrics-spring-2017"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "29fcbcb1-16eb-4429-b517-39e8fea8fa77",
+  "site_short_id": "14.382-spring-2017",
+  "site_url_path": "courses/14-382-econometrics-spring-2017",
+  "title": "Course Metadata"
+}
