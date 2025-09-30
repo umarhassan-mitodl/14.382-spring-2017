@@ -4,6 +4,8 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/93c8db56f7aa61c495bdc0e017eacc14_R-NPA-functions-1se-union-rweight.R
 file_size: 46122
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains the homework for the course. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Some of the problems use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit {{% resource_link "709b2795-300c-4939-9e10-e7b223934d43" "The R Project for Statistical Computing site" %}}.
+Some of the problems use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit [The R Project for Statistical Computing site](https://www.r-project.org/).
 
 {{% resource_link de424912-f80b-e5f9-33d0-042bd4ccb18f "Homework 1" %}}
 
