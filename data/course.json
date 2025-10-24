@@ -27,7 +27,6 @@
     "website": "14-382-econometrics-spring-2017"
   },
   "course_title": "Econometrics",
-  "hide_download": true,
   "course_description": "The course will cover several key models as well as identification and estimation methods used in modern econometrics. We shall being with exploring some leading models of econometrics, then seeing structures, then providing methods of identification, estimation, and inference. You will get lots of hands-on experience with using the methods on real data sets.\n",
   "department_numbers": [
     "14"
@@ -38,7 +37,6 @@
     "content": "ac3d09c6-4fd3-d5f2-9d98-bee8f23c2e01",
     "website": "14-382-econometrics-spring-2017"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

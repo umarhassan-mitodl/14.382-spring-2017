@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/a09a73300a797777e5c4e3b0da236447_fish-mert-sem.R
 file_size: 13693
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

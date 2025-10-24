@@ -4,8 +4,6 @@ description: ''
 file: /courses/14-382-econometrics-spring-2017/50e2ae6c874207f1b46817b054a4922e_TestScores.dta
 file_size: 148024
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
