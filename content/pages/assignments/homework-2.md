@@ -30,4 +30,4 @@ Solve one of problems 1, 2, or 3 from {{% resource_link dbf8d6d0-2238-c7ad-02d6-
 
 ### Hint
 
-Stata code for Weak-Id robust inference is available from [Christian Hansen's website](https://www.chicagobooth.edu/faculty/directory/h/christian-b-hansen). You can take a look, but write your own code. We also provide R-code below: you are welcome to take a look at the code, but you are not allowed to copy and paste the code—please write your own code (to learn!)
+Stata code for Weak-Id robust inference is available from {{% resource_link "85cc824f-5b9c-41a9-80c8-cc654882335e" "Christian Hansen's website" %}}. You can take a look, but write your own code. We also provide R-code below: you are welcome to take a look at the code, but you are not allowed to copy and paste the code—please write your own code (to learn!)

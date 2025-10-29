@@ -10,7 +10,7 @@ video_metadata:
   youtube_id: null
 ---
 
-Some of the problems use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit [The R Project for Statistical Computing site](https://www.r-project.org/).
+Some of the problems use R, a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. For more information and to download the software, visit {{% resource_link "2d9ec7da-57f1-4f01-8525-ac9c38d76bdc" "The R Project for Statistical Computing site" %}}.
 
 {{% resource_link de424912-f80b-e5f9-33d0-042bd4ccb18f "Homework 1" %}}
 
